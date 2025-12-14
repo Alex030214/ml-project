@@ -1,0 +1,2 @@
+best_model,test_MAE,test_RMSE,test_R2,best_params
+RandomForest,63.339348676238295,175.73324416593388,0.20287307081458072,"{'max_depth': 10, 'min_samples_leaf': 5, 'n_estimators': 300}"

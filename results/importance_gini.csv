@@ -1,0 +1,38 @@
+feature,importance
+room_type=Entire home/apt,0.4028632765196536
+dist_to_center_km,0.1298280614279037
+availability_365,0.1122549756497745
+longitude,0.07999274355162797
+reviews_per_month,0.07463301970956142
+latitude,0.04991020553500625
+calculated_host_listings_count,0.04406414702223893
+minimum_nights,0.030817940439822868
+number_of_reviews,0.029283250309021253
+neighbourhood_cleansed=South Boston Waterfront,0.013727385844018926
+neighbourhood_cleansed=East Boston,0.005147993520824659
+reviews_per_month_missing,0.004621782336390315
+neighbourhood_cleansed=Downtown,0.0043148206006208565
+neighbourhood_cleansed=Jamaica Plain,0.002877994738976783
+neighbourhood_cleansed=Beacon Hill,0.002061366906704726
+neighbourhood_cleansed=South End,0.00198068055748319
+neighbourhood_cleansed=Back Bay,0.00197417984286506
+neighbourhood_cleansed=Fenway,0.001942394338259241
+neighbourhood_cleansed=Brighton,0.0017904515938947688
+neighbourhood_cleansed=Roxbury,0.0016064824717618332
+neighbourhood_cleansed=Mission Hill,0.0008452056000676693
+neighbourhood_cleansed=Bay Village,0.000739919808578052
+neighbourhood_cleansed=South Boston,0.0007058866964452797
+neighbourhood_cleansed=Charlestown,0.0006136167766893621
+neighbourhood_cleansed=North End,0.00035148082108906733
+room_type=Shared room,0.0002755307473441026
+room_type=Private room,0.0002537763168220985
+neighbourhood_cleansed=Allston,0.0002128332658384759
+neighbourhood_cleansed=Chinatown,0.00013721605238493396
+neighbourhood_cleansed=Dorchester,8.989301804229462e-05
+neighbourhood_cleansed=West End,5.8430773985412465e-05
+neighbourhood_cleansed=West Roxbury,1.5013725198181905e-05
+neighbourhood_cleansed=Roslindale,5.3086699979510986e-06
+neighbourhood_cleansed=Hyde Park,2.6155828347710496e-06
+neighbourhood_cleansed=Mattapan,1.192282714794729e-07
+neighbourhood_cleansed=Leather District,0.0
+neighbourhood_cleansed=Longwood Medical Area,0.0

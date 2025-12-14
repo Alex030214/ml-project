@@ -1,0 +1,57 @@
+{
+  "use_cols": [
+    "room_type",
+    "neighbourhood_cleansed",
+    "latitude",
+    "longitude",
+    "minimum_nights",
+    "number_of_reviews",
+    "reviews_per_month",
+    "availability_365",
+    "calculated_host_listings_count",
+    "dist_to_center_km"
+  ],
+  "engineered": [
+    "dist_to_center_km (Haversine distance to Boston center)"
+  ],
+  "num_cols": [
+    "latitude",
+    "longitude",
+    "minimum_nights",
+    "number_of_reviews",
+    "reviews_per_month",
+    "availability_365",
+    "calculated_host_listings_count",
+    "dist_to_center_km"
+  ],
+  "cat_cols": [
+    "room_type",
+    "neighbourhood_cleansed"
+  ],
+  "imputation": {
+    "numeric": "IterativeImputer(MICE, max_iter=10, initial_strategy='mean') + MissingIndicator(features='missing-only')",
+    "categorical": "OneHotEncoder(handle_unknown='ignore'); NaN kept as its own level"
+  },
+  "scaling": "StandardScaler on numeric after imputation",
+  "split_random_state": 42,
+  "before_shape": [
+    3585,
+    11
+  ],
+  "after_drop_target_only": [
+    3585,
+    11
+  ],
+  "train_shape": [
+    2151,
+    37
+  ],
+  "val_shape": [
+    717,
+    37
+  ],
+  "test_shape": [
+    717,
+    37
+  ]
+}

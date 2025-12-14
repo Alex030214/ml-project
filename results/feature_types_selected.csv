@@ -1,0 +1,11 @@
+,type
+price,continuous
+room_type,categorical
+neighbourhood_cleansed,categorical
+latitude,continuous
+longitude,continuous
+minimum_nights,continuous
+number_of_reviews,continuous
+reviews_per_month,continuous
+availability_365,continuous
+calculated_host_listings_count,continuous

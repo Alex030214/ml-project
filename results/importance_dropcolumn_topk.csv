@@ -1,0 +1,16 @@
+feature,rmse_increase
+availability_365,2.490737355540091
+calculated_host_listings_count,1.8812972494615394
+dist_to_center_km,1.5173889829846132
+longitude,0.24890072159672627
+minimum_nights,0.08790753644387905
+neighbourhood_cleansed=East Boston,0.05769067459377197
+neighbourhood_cleansed=Downtown,0.05339375801793267
+neighbourhood_cleansed=Jamaica Plain,0.04215567716212831
+reviews_per_month_missing,0.008334457095116932
+number_of_reviews,0.0030144187567486824
+latitude,-0.0015881301382876245
+neighbourhood_cleansed=Beacon Hill,-0.009807590240143327
+room_type=Entire home/apt,-0.1226245426071273
+reviews_per_month,-0.21409248671881187
+neighbourhood_cleansed=South Boston Waterfront,-0.3614525933814434

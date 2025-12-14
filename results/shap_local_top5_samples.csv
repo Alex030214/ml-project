@@ -1,0 +1,186 @@
+sample_local_index,feature,feature_value,shap_value
+0,latitude,0.732305919878547,20.338767524214756
+0,longitude,0.5051953651031662,1.9340864715268062
+0,minimum_nights,-0.15508043533584545,5.2048074175040995
+0,number_of_reviews,-0.5369774425924656,20.040355765124595
+0,reviews_per_month,-0.19912617874601832,7.522448573420521
+0,availability_365,0.6276336008500355,8.542505275517417
+0,calculated_host_listings_count,-0.27216779715872147,10.539426054253555
+0,dist_to_center_km,-1.1296043691227913,37.959127898904086
+0,reviews_per_month_missing,1.0,5.204031817863338
+0,room_type=Entire home/apt,1.0,58.11897190835952
+0,room_type=Private room,0.0,-0.4239107250982166
+0,room_type=Shared room,0.0,0.04103682166755054
+0,neighbourhood_cleansed=Allston,0.0,0.004358133608370801
+0,neighbourhood_cleansed=Back Bay,0.0,-0.5993274912104424
+0,neighbourhood_cleansed=Bay Village,0.0,-0.05849842299364329
+0,neighbourhood_cleansed=Beacon Hill,1.0,9.550162849411613
+0,neighbourhood_cleansed=Brighton,0.0,-0.031146303617186708
+0,neighbourhood_cleansed=Charlestown,0.0,-0.09321930908409021
+0,neighbourhood_cleansed=Chinatown,0.0,-0.036549064028563547
+0,neighbourhood_cleansed=Dorchester,0.0,0.012442032431400536
+0,neighbourhood_cleansed=Downtown,0.0,-0.6800093413178305
+0,neighbourhood_cleansed=East Boston,0.0,1.0301877517471318
+0,neighbourhood_cleansed=Fenway,0.0,-0.08734698653556677
+0,neighbourhood_cleansed=Hyde Park,0.0,0.00040220917438109485
+0,neighbourhood_cleansed=Jamaica Plain,0.0,-0.28768691808589275
+0,neighbourhood_cleansed=Leather District,0.0,0.0
+0,neighbourhood_cleansed=Longwood Medical Area,0.0,0.0
+0,neighbourhood_cleansed=Mattapan,0.0,3.1960341982809894e-05
+0,neighbourhood_cleansed=Mission Hill,0.0,-0.03766680339184154
+0,neighbourhood_cleansed=North End,0.0,0.0005236588667062215
+0,neighbourhood_cleansed=Roslindale,0.0,-5.054046051464455e-05
+0,neighbourhood_cleansed=Roxbury,0.0,-0.08916886232892948
+0,neighbourhood_cleansed=South Boston,0.0,-0.05776764524250448
+0,neighbourhood_cleansed=South Boston Waterfront,0.0,-0.4115424232728901
+0,neighbourhood_cleansed=South End,0.0,1.3896828146294173
+0,neighbourhood_cleansed=West End,0.0,0.02594158394108184
+0,neighbourhood_cleansed=West Roxbury,0.0,-0.0015414571134128733
+1,latitude,1.0839576626129088,-6.763652803656823
+1,longitude,1.4920554653265439,-8.111169679052885
+1,minimum_nights,-0.28432414568354153,-1.3746340999710442
+1,number_of_reviews,-0.11684122877884949,-2.3184787634849324
+1,reviews_per_month,3.424190094121001,-8.59946762875741
+1,availability_365,0.8258243328862327,-4.374617851057985
+1,calculated_host_listings_count,-0.4067346128554023,-1.9144729613191516
+1,dist_to_center_km,-0.7640234823363093,13.906330483559513
+1,reviews_per_month_missing,0.0,-1.0689759144348714
+1,room_type=Entire home/apt,0.0,-54.275092943228636
+1,room_type=Private room,1.0,0.06795188770474131
+1,room_type=Shared room,0.0,0.09710849365120745
+1,neighbourhood_cleansed=Allston,0.0,-0.0028156956940534237
+1,neighbourhood_cleansed=Back Bay,0.0,-0.12398732381347123
+1,neighbourhood_cleansed=Bay Village,0.0,-0.020330764367669892
+1,neighbourhood_cleansed=Beacon Hill,0.0,-0.12857342871244865
+1,neighbourhood_cleansed=Brighton,0.0,-0.046025663623064775
+1,neighbourhood_cleansed=Charlestown,0.0,-0.3031040283737741
+1,neighbourhood_cleansed=Chinatown,0.0,-0.004692299128945566
+1,neighbourhood_cleansed=Dorchester,0.0,0.015225663236766378
+1,neighbourhood_cleansed=Downtown,0.0,-1.0115131385525788
+1,neighbourhood_cleansed=East Boston,1.0,-11.965167436956813
+1,neighbourhood_cleansed=Fenway,0.0,-0.24344374831056126
+1,neighbourhood_cleansed=Hyde Park,0.0,0.0009119381608085205
+1,neighbourhood_cleansed=Jamaica Plain,0.0,-0.17272728980987034
+1,neighbourhood_cleansed=Leather District,0.0,0.0
+1,neighbourhood_cleansed=Longwood Medical Area,0.0,0.0
+1,neighbourhood_cleansed=Mattapan,0.0,5.156721002040615e-05
+1,neighbourhood_cleansed=Mission Hill,0.0,-0.02886076611505236
+1,neighbourhood_cleansed=North End,0.0,0.010579046084074655
+1,neighbourhood_cleansed=Roslindale,0.0,-0.00042063637009106663
+1,neighbourhood_cleansed=Roxbury,0.0,-0.2148113542395293
+1,neighbourhood_cleansed=South Boston,0.0,-0.03799945462643395
+1,neighbourhood_cleansed=South Boston Waterfront,0.0,-0.8271505773566642
+1,neighbourhood_cleansed=South End,0.0,0.08340684204827087
+1,neighbourhood_cleansed=West End,0.0,0.0027631312874833794
+1,neighbourhood_cleansed=West Roxbury,0.0,-0.0014420906716554978
+2,latitude,0.4961976007412851,7.075625682684219
+2,longitude,0.19096538028484528,-1.0082132296361015
+2,minimum_nights,-0.15508043533584545,5.3352297197063026
+2,number_of_reviews,-0.5369774425924656,18.02704161083804
+2,reviews_per_month,-0.09543225971148525,18.308108803887855
+2,availability_365,-1.283491315213295,-2.6322025601742762
+2,calculated_host_listings_count,-0.4067346128554023,-2.5173005753074422
+2,dist_to_center_km,-0.7693598441157694,30.100074299699266
+2,reviews_per_month_missing,1.0,5.705904120981498
+2,room_type=Entire home/apt,1.0,52.05915968327465
+2,room_type=Private room,0.0,-0.39718820701761254
+2,room_type=Shared room,0.0,0.0437922017533451
+2,neighbourhood_cleansed=Allston,0.0,0.014610983370097457
+2,neighbourhood_cleansed=Back Bay,1.0,3.779609350316415
+2,neighbourhood_cleansed=Bay Village,0.0,-0.05343965759864926
+2,neighbourhood_cleansed=Beacon Hill,0.0,-0.24360469969871135
+2,neighbourhood_cleansed=Brighton,0.0,-0.028446570269774114
+2,neighbourhood_cleansed=Charlestown,0.0,-0.0635127251295682
+2,neighbourhood_cleansed=Chinatown,0.0,-0.012807933825830295
+2,neighbourhood_cleansed=Dorchester,0.0,0.01035627173091783
+2,neighbourhood_cleansed=Downtown,0.0,-0.7547315832048996
+2,neighbourhood_cleansed=East Boston,0.0,1.2752644172577936
+2,neighbourhood_cleansed=Fenway,0.0,-0.0842982828082351
+2,neighbourhood_cleansed=Hyde Park,0.0,0.0004378047068837369
+2,neighbourhood_cleansed=Jamaica Plain,0.0,-0.2994198798282216
+2,neighbourhood_cleansed=Leather District,0.0,0.0
+2,neighbourhood_cleansed=Longwood Medical Area,0.0,0.0
+2,neighbourhood_cleansed=Mattapan,0.0,1.949580840119374e-05
+2,neighbourhood_cleansed=Mission Hill,0.0,-0.03997855421223886
+2,neighbourhood_cleansed=North End,0.0,0.005450502480180865
+2,neighbourhood_cleansed=Roslindale,0.0,-0.00011449579042562826
+2,neighbourhood_cleansed=Roxbury,0.0,-0.07976080563218534
+2,neighbourhood_cleansed=South Boston,0.0,-0.07555710069746667
+2,neighbourhood_cleansed=South Boston Waterfront,0.0,-4.102537639642899
+2,neighbourhood_cleansed=South End,0.0,0.5506310358723481
+2,neighbourhood_cleansed=West End,0.0,0.021934934905824915
+2,neighbourhood_cleansed=West Roxbury,0.0,-0.0015253445113673461
+3,latitude,0.9942083151788641,5.227860084153242
+3,longitude,-1.4511466356334872,6.9758962159775315
+3,minimum_nights,-0.025836724988149384,6.686726387347803
+3,number_of_reviews,-0.4809592807506501,-1.2651562880453966
+3,reviews_per_month,-0.7499671851731095,5.41225239740563
+3,availability_365,-1.283491315213295,-12.857040858467585
+3,calculated_host_listings_count,1.5108425108222994,16.053822982430916
+3,dist_to_center_km,0.6866543553441297,-19.552236422264784
+3,reviews_per_month_missing,0.0,-0.7597429527973296
+3,room_type=Entire home/apt,1.0,46.90369585498198
+3,room_type=Private room,0.0,-0.42601107711333913
+3,room_type=Shared room,0.0,0.030669384867579686
+3,neighbourhood_cleansed=Allston,1.0,-0.08910998671804203
+3,neighbourhood_cleansed=Back Bay,0.0,-0.13120509845730102
+3,neighbourhood_cleansed=Bay Village,0.0,-0.02449579898609086
+3,neighbourhood_cleansed=Beacon Hill,0.0,-0.065386430208023
+3,neighbourhood_cleansed=Brighton,0.0,-0.10407347018104997
+3,neighbourhood_cleansed=Charlestown,0.0,-0.0344713388802137
+3,neighbourhood_cleansed=Chinatown,0.0,-0.008937486863555968
+3,neighbourhood_cleansed=Dorchester,0.0,0.027794676274661867
+3,neighbourhood_cleansed=Downtown,0.0,-0.17781924936318838
+3,neighbourhood_cleansed=East Boston,0.0,0.4348852616184123
+3,neighbourhood_cleansed=Fenway,0.0,-0.05124912177474355
+3,neighbourhood_cleansed=Hyde Park,0.0,0.0006599064850473468
+3,neighbourhood_cleansed=Jamaica Plain,0.0,-0.7519995279203658
+3,neighbourhood_cleansed=Leather District,0.0,0.0
+3,neighbourhood_cleansed=Longwood Medical Area,0.0,0.0
+3,neighbourhood_cleansed=Mattapan,0.0,2.4694417721675857e-05
+3,neighbourhood_cleansed=Mission Hill,0.0,-0.0633935805975269
+3,neighbourhood_cleansed=North End,0.0,0.003199531329196666
+3,neighbourhood_cleansed=Roslindale,0.0,0.0007192615418467387
+3,neighbourhood_cleansed=Roxbury,0.0,-0.17519919533176526
+3,neighbourhood_cleansed=South Boston,0.0,-0.10376936978997824
+3,neighbourhood_cleansed=South Boston Waterfront,0.0,-3.2198343126890667
+3,neighbourhood_cleansed=South End,0.0,0.1293880737452599
+3,neighbourhood_cleansed=West End,0.0,0.00404364080092242
+3,neighbourhood_cleansed=West Roxbury,0.0,-0.003066495369677627
+4,latitude,0.33226538473714173,0.9340156080249014
+4,longitude,0.7976197930494247,-2.6751730564558516
+4,minimum_nights,-0.025836724988149384,13.323817858973957
+4,number_of_reviews,0.3032949850347666,1.0306249608249678
+4,reviews_per_month,-0.29301761831311457,-1.5980390941776923
+4,availability_365,1.0806409883613435,35.71992228212842
+4,calculated_host_listings_count,-0.27216779715872147,-0.24954027708016954
+4,dist_to_center_km,-0.9604489584693633,18.72550465696618
+4,reviews_per_month_missing,0.0,-0.48073199183005316
+4,room_type=Entire home/apt,1.0,60.85427501276058
+4,room_type=Private room,0.0,-0.5192181652395419
+4,room_type=Shared room,0.0,0.04723273817303221
+4,neighbourhood_cleansed=Allston,0.0,0.005161010655712753
+4,neighbourhood_cleansed=Back Bay,0.0,-0.30195012549331945
+4,neighbourhood_cleansed=Bay Village,0.0,-0.1880691565244636
+4,neighbourhood_cleansed=Beacon Hill,0.0,-0.28355830082525174
+4,neighbourhood_cleansed=Brighton,0.0,-0.006343860921855656
+4,neighbourhood_cleansed=Charlestown,0.0,-0.09131866691436626
+4,neighbourhood_cleansed=Chinatown,1.0,0.04845942615470541
+4,neighbourhood_cleansed=Dorchester,0.0,0.011025309092163765
+4,neighbourhood_cleansed=Downtown,0.0,-0.4084863949201774
+4,neighbourhood_cleansed=East Boston,0.0,0.6526068487875787
+4,neighbourhood_cleansed=Fenway,0.0,-0.07448328975983427
+4,neighbourhood_cleansed=Hyde Park,0.0,0.000399513039871659
+4,neighbourhood_cleansed=Jamaica Plain,0.0,-0.5527427946588896
+4,neighbourhood_cleansed=Leather District,0.0,0.0
+4,neighbourhood_cleansed=Longwood Medical Area,0.0,0.0
+4,neighbourhood_cleansed=Mattapan,0.0,3.1960341982809894e-05
+4,neighbourhood_cleansed=Mission Hill,0.0,-0.014620547814583626
+4,neighbourhood_cleansed=North End,0.0,0.000816043996416566
+4,neighbourhood_cleansed=Roslindale,0.0,0.00044015269960020613
+4,neighbourhood_cleansed=Roxbury,0.0,-0.09067530567255312
+4,neighbourhood_cleansed=South Boston,0.0,-0.06536452483348294
+4,neighbourhood_cleansed=South Boston Waterfront,0.0,-0.7272928949707139
+4,neighbourhood_cleansed=South End,0.0,0.0649437418494004
+4,neighbourhood_cleansed=West End,0.0,0.004829759894714542
+4,neighbourhood_cleansed=West Roxbury,0.0,-0.001333001533353393
