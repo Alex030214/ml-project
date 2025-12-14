@@ -2,7 +2,6 @@
 
 **Author:** Zhuolei Chen  
 **Affiliation:** Data Science Institute, Brown University
-**Repository:** https://github.com/Alex030214/ml-project
 
 ## Project overview
 Supervised regression to predict nightly listing price (USD) for Boston Airbnb.  
